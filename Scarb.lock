@@ -2,5 +2,5 @@
 version = 1
 
 [[package]]
-name = "erc20component"
+name = "token_component"
 version = "0.1.0"
