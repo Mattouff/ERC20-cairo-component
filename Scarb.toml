@@ -1,5 +1,5 @@
 [package]
-name = "erc20component"
+name = "token_component"
 version = "0.1.0"
 edition = "2024_07"
 
